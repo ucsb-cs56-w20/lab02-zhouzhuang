@@ -1,7 +1,7 @@
-# lab02_zhouzhuang
+# lab02-zhouzhuang
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02_zhouzhuang
-Repo: https://ucsb-cs56-w20/lab02_zhouzhuang
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-zhouzhuang
+Repo: https://ucsb-cs56-w20/lab02-zhouzhuang
 
 # About this repo
 
